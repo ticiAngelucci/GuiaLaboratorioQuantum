@@ -1,6 +1,6 @@
-Probabilidad, Estadística y Procesos Cuánticos
+# Probabilidad, Estadística y Procesos Cuánticos
 
-Repositorio de actividades para la materia "Probabilidad, Estadística y Procesos Estocásticos" dictada por el profesor Andrés.
+## Repositorio de actividades para la materia "Probabilidad, Estadística y Procesos Estocásticos" dictada por el profesor Andrés.
 
 Este espacio tiene como objetivo explorar la convergencia entre los conceptos estadísticos abordados en clase y la Computación Cuántica. Aquí encontrará una serie de notebooks diseñados para validar la teoría probabilística mediante simulaciones cuánticas.
 Nuestra Metodología: "Andamiaje Cuántico"
@@ -21,7 +21,7 @@ Roadmap del Curso
 
         Conexión Cuántica: La Regla de Born y la medición de qubits.
 
-        Tarea: Simulación de Monte Carlo para validar la frecuencia de resultados de un qubit.
+        Tarea: Simulación Moneda y simulación de Monte Carlo para validar la frecuencia de resultados de un qubit.
 
     Módulo 2: Detectives de Entrelazamiento
 
@@ -47,7 +47,7 @@ Roadmap del Curso
 
         Tarea: Reconstrucción de un estado secreto a partir de datos ruidosos.
 
-Instrucciones de Uso
+### Instrucciones de Uso
 
 Todos los notebooks están preparados para ser ejecutados directamente en Google Colab.
 
